@@ -29,29 +29,26 @@ I build practical software around **automation, backend systems, databases, and 
 
 ---
 
-<table>
-<tr>
-<td>
+## 🚀 What I Build
 
-### 🔐 Secure Document Approval System
+* Internal business applications
+* Workflow and document automation
+* API and SQL integrations
+* Secure web applications
 
-Secure document workflow with **authentication, role-based access, electronic signatures, and automated PDFs.**
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-Authentication-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/RBAC-Access_Control-purple?style=flat-square" />
-</p>
+<table> <tr> <td>
 
-<a href="https://github.com/zain-waseem/Delta-V2-Verisys-Core">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+🔐 Secure Document Approval System
 
-</td>
-</tr>
-</table>
+Secure document workflow with authentication, role-based access, electronic signatures, and automated PDFs.
+
+<p> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth-Authentication-blue?style=flat-square" /> <img src="https://img.shields.io/badge/RBAC-Access_Control-purple?style=flat-square" /> </p>
+
+<a href="https://github.com/zain-waseem/Delta-V2-Verisys-Core"> <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</td> </tr> </table>
 
 ---
 
@@ -59,15 +56,8 @@ Secure document workflow with **authentication, role-based access, electronic si
 
 ## 🤝 Let's Connect
 
-<a href="https://github.com/zain-waseem">
-  <img src="https://img.shields.io/badge/GitHub-zain--waseem-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Always happy to connect with developers, talk about projects, and exchange ideas.
 
-<br><br>
-
-📍 **Houston, Texas**
-
-</div>
-
+📍 Houston, Texas
 
 </div>
