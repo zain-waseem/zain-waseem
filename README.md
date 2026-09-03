@@ -37,20 +37,45 @@ I build practical software around **automation, backend systems, databases, and 
 * Secure web applications
 
 ---
+
+## 💼 Current Work
+
+Building software used across real business operations, including:
+
+`Python Desktop Apps` · `SQL Automation` · `OCR Workflows` · `API Integrations`
+
+---
+
 ## 🔐 Featured Project
-<table> <tr> <td>
 
-🔐 Secure Document Approval System
+<table>
+<tr>
+<td>
 
-Secure document workflow with authentication, role-based access, electronic signatures, and automated PDFs.
+### Secure Document Approval System
 
-<p> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/OAuth-Authentication-blue?style=flat-square" /> <img src="https://img.shields.io/badge/RBAC-Access_Control-purple?style=flat-square" /> </p>
+Secure document workflow with **authentication, role-based access, electronic signatures, and automated PDFs**.
 
-<a href="https://github.com/zain-waseem/Delta-V2-Verisys-Core"> <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-Authentication-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-Access_Control-purple?style=flat-square" />
+</p>
 
-</td> </tr> </table>
+<a href="https://github.com/zain-waseem/Delta-V2-Verisys-Core">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
+
+### 🤝 Always happy to connect.
+
 </div>
