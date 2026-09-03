@@ -37,7 +37,7 @@ I build practical software around **automation, backend systems, databases, and 
 * Secure web applications
 
 ---
-
+## 🔐 Featured Project
 <table> <tr> <td>
 
 🔐 Secure Document Approval System
