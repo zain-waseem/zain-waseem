@@ -53,11 +53,4 @@ Secure document workflow with authentication, role-based access, electronic sign
 ---
 
 <div align="center">
-
-## 🤝 Let's Connect
-
-Always happy to connect with developers, talk about projects, and exchange ideas.
-
-📍 Houston, Texas
-
 </div>
