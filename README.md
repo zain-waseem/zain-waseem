@@ -29,22 +29,29 @@ I build practical software around **automation, backend systems, databases, and 
 
 ---
 
-## 🚀 What I Build
+<table>
+<tr>
+<td>
 
-* Internal business applications
-* Workflow and document automation
-* API and SQL integrations
-* Secure web applications
+### 🔐 Secure Document Approval System
 
----
+Secure document workflow with **authentication, role-based access, electronic signatures, and automated PDFs.**
 
-## 🔐 Featured Project
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-Authentication-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/RBAC-Access_Control-purple?style=flat-square" />
+</p>
 
-**Secure Document Approval System**
+<a href="https://github.com/zain-waseem/Delta-V2-Verisys-Core">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Django · PostgreSQL · Microsoft OAuth · RBAC · Docker · PDF Automation
-
-[View Project →](https://github.com/zain-waseem/Delta-V2-Verisys-Core)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,6 +59,15 @@ Django · PostgreSQL · Microsoft OAuth · RBAC · Docker · PDF Automation
 
 ## 🤝 Let's Connect
 
-📍 Houston, Texas
+<a href="https://github.com/zain-waseem">
+  <img src="https://img.shields.io/badge/GitHub-zain--waseem-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+📍 **Houston, Texas**
+
+</div>
+
 
 </div>
